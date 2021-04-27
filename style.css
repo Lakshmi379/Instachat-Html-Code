@@ -1,0 +1,48 @@
+ul li{
+	list-style: none;
+	display: inline;
+	margin: 100px;
+	background-color: grey;
+	text-align: center;
+	padding: 3px;
+}
+img{
+	margin-top: 100px;
+	text-align: center;
+}
+p1{
+	margin-top: 25px;
+	text-align: right;
+}
+p{
+	margin-top: 30px;
+}
+p{
+	margin-top: 30px;
+}
+p{
+	margin-top: 30px;
+}
+footer{
+	margin-top: 50px;
+	text-align: center;
+	padding: 7px;
+	background-color: grey;
+	color: white
+}
+ol{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 27px;
+}
+ul li a{
+    color: white;
+}
+ol li a{
+	color: black;
+}
+img{
+	text-align: center;
+}
